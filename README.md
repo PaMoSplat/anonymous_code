@@ -1,10 +1,13 @@
+<p align="center" style="text-align: center;">
+  <img src="https://github.com/PaMoSplat/anonymous_code/blob/main/logo.svg" alt="PaMoSplat Logo" style="vertical-align: bottom; width:300px;"/>
+</p>
 
 <p align="center">
   <h1 align="center"><strong>
-    <img src="https://github.com/PaMoSplat/anonymous_code/blob/main/logo.svg" alt="PaMoSplat Logo" style="vertical-align: bottom; width:170px;"/>
-    : Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction
+    Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction
   </strong>
 </p>
+
 
 
 
