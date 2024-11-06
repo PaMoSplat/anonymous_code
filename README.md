@@ -125,7 +125,7 @@ python visualize.py
 If you find our work helpful, please cite:
 
 ```bibtex
-@article{openobj,
+@article{pamosplat,
   title={PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction},
   author={Anonymous Authors},
   journal={CVPR Under Review},
