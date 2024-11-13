@@ -128,16 +128,3 @@ At the beginning of the code, we provide several visualization modes and you can
 python visualize.py
 ```
 
-
-## 🔗 Citation
-
-If you find our work helpful, please cite:
-
-```bibtex
-@article{pamosplat,
-  title={PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction},
-  author={Anonymous Authors},
-  journal={CVPR Under Review},
-  year={2025}
-}
-```
