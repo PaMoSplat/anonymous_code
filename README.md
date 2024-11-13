@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://pamosplat.github.io/" target='_blank'>
+  <a href="https://github.com/PaMoSplat/anonymous_project" target='_blank'>
     <img src="https://img.shields.io/badge/Project-👔-green?">
   </a> 
 </p>
